@@ -1,0 +1,400 @@
+ ***  les resultats pour l'iteration: 1   ***
+ _Nombre des rotations : 4866
+ _Nombre des noeuds visites : 27326
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 2   ***
+ _Nombre des rotations : 4939
+ _Nombre des noeuds visites : 27478
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 3   ***
+ _Nombre des rotations : 4810
+ _Nombre des noeuds visites : 27233
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 4   ***
+ _Nombre des rotations : 4827
+ _Nombre des noeuds visites : 27321
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 5   ***
+ _Nombre des rotations : 4661
+ _Nombre des noeuds visites : 26986
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 6   ***
+ _Nombre des rotations : 4795
+ _Nombre des noeuds visites : 27201
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 7   ***
+ _Nombre des rotations : 4852
+ _Nombre des noeuds visites : 27238
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 8   ***
+ _Nombre des rotations : 5034
+ _Nombre des noeuds visites : 27581
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 9   ***
+ _Nombre des rotations : 4839
+ _Nombre des noeuds visites : 27308
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 10   ***
+ _Nombre des rotations : 4807
+ _Nombre des noeuds visites : 27072
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 11   ***
+ _Nombre des rotations : 4927
+ _Nombre des noeuds visites : 27514
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 12   ***
+ _Nombre des rotations : 5079
+ _Nombre des noeuds visites : 27797
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 13   ***
+ _Nombre des rotations : 4994
+ _Nombre des noeuds visites : 27710
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 14   ***
+ _Nombre des rotations : 4857
+ _Nombre des noeuds visites : 27351
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 15   ***
+ _Nombre des rotations : 4939
+ _Nombre des noeuds visites : 27536
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 16   ***
+ _Nombre des rotations : 4929
+ _Nombre des noeuds visites : 27416
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 17   ***
+ _Nombre des rotations : 5014
+ _Nombre des noeuds visites : 27675
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 18   ***
+ _Nombre des rotations : 4589
+ _Nombre des noeuds visites : 26827
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 19   ***
+ _Nombre des rotations : 4906
+ _Nombre des noeuds visites : 27382
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 20   ***
+ _Nombre des rotations : 4990
+ _Nombre des noeuds visites : 27668
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 21   ***
+ _Nombre des rotations : 5028
+ _Nombre des noeuds visites : 27695
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 22   ***
+ _Nombre des rotations : 4793
+ _Nombre des noeuds visites : 27124
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 23   ***
+ _Nombre des rotations : 4927
+ _Nombre des noeuds visites : 27347
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 24   ***
+ _Nombre des rotations : 4802
+ _Nombre des noeuds visites : 27125
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 25   ***
+ _Nombre des rotations : 4882
+ _Nombre des noeuds visites : 27403
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 26   ***
+ _Nombre des rotations : 4990
+ _Nombre des noeuds visites : 27581
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 27   ***
+ _Nombre des rotations : 4800
+ _Nombre des noeuds visites : 27154
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 28   ***
+ _Nombre des rotations : 4899
+ _Nombre des noeuds visites : 27459
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 29   ***
+ _Nombre des rotations : 4962
+ _Nombre des noeuds visites : 27651
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 30   ***
+ _Nombre des rotations : 4889
+ _Nombre des noeuds visites : 27333
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 31   ***
+ _Nombre des rotations : 5024
+ _Nombre des noeuds visites : 27715
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 32   ***
+ _Nombre des rotations : 5081
+ _Nombre des noeuds visites : 27680
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 33   ***
+ _Nombre des rotations : 4941
+ _Nombre des noeuds visites : 27531
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 34   ***
+ _Nombre des rotations : 4839
+ _Nombre des noeuds visites : 27299
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 35   ***
+ _Nombre des rotations : 4843
+ _Nombre des noeuds visites : 27250
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 36   ***
+ _Nombre des rotations : 4677
+ _Nombre des noeuds visites : 27094
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 37   ***
+ _Nombre des rotations : 4872
+ _Nombre des noeuds visites : 27317
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 38   ***
+ _Nombre des rotations : 4796
+ _Nombre des noeuds visites : 27318
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 39   ***
+ _Nombre des rotations : 4765
+ _Nombre des noeuds visites : 27090
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 40   ***
+ _Nombre des rotations : 4975
+ _Nombre des noeuds visites : 27572
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 41   ***
+ _Nombre des rotations : 4948
+ _Nombre des noeuds visites : 27454
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 42   ***
+ _Nombre des rotations : 4820
+ _Nombre des noeuds visites : 27221
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 43   ***
+ _Nombre des rotations : 5069
+ _Nombre des noeuds visites : 27857
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 44   ***
+ _Nombre des rotations : 4802
+ _Nombre des noeuds visites : 27171
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 45   ***
+ _Nombre des rotations : 4864
+ _Nombre des noeuds visites : 27409
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 46   ***
+ _Nombre des rotations : 4728
+ _Nombre des noeuds visites : 26972
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 47   ***
+ _Nombre des rotations : 4947
+ _Nombre des noeuds visites : 27543
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 48   ***
+ _Nombre des rotations : 4923
+ _Nombre des noeuds visites : 27518
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 49   ***
+ _Nombre des rotations : 4886
+ _Nombre des noeuds visites : 27366
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 50   ***
+ _Nombre des rotations : 4982
+ _Nombre des noeuds visites : 27588
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 51   ***
+ _Nombre des rotations : 4860
+ _Nombre des noeuds visites : 27375
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 52   ***
+ _Nombre des rotations : 5038
+ _Nombre des noeuds visites : 27828
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 53   ***
+ _Nombre des rotations : 4844
+ _Nombre des noeuds visites : 27277
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 54   ***
+ _Nombre des rotations : 4827
+ _Nombre des noeuds visites : 27336
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 55   ***
+ _Nombre des rotations : 4859
+ _Nombre des noeuds visites : 27468
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 56   ***
+ _Nombre des rotations : 4998
+ _Nombre des noeuds visites : 27637
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 57   ***
+ _Nombre des rotations : 4758
+ _Nombre des noeuds visites : 27071
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 58   ***
+ _Nombre des rotations : 4964
+ _Nombre des noeuds visites : 27511
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 59   ***
+ _Nombre des rotations : 4929
+ _Nombre des noeuds visites : 27516
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 60   ***
+ _Nombre des rotations : 4990
+ _Nombre des noeuds visites : 27423
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 61   ***
+ _Nombre des rotations : 4907
+ _Nombre des noeuds visites : 27363
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 62   ***
+ _Nombre des rotations : 4885
+ _Nombre des noeuds visites : 27312
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 63   ***
+ _Nombre des rotations : 5042
+ _Nombre des noeuds visites : 27653
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 64   ***
+ _Nombre des rotations : 4869
+ _Nombre des noeuds visites : 27376
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 65   ***
+ _Nombre des rotations : 4811
+ _Nombre des noeuds visites : 27275
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 66   ***
+ _Nombre des rotations : 4907
+ _Nombre des noeuds visites : 27526
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 67   ***
+ _Nombre des rotations : 4882
+ _Nombre des noeuds visites : 27379
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 68   ***
+ _Nombre des rotations : 4852
+ _Nombre des noeuds visites : 27416
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 69   ***
+ _Nombre des rotations : 4683
+ _Nombre des noeuds visites : 27061
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 70   ***
+ _Nombre des rotations : 4956
+ _Nombre des noeuds visites : 27485
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 71   ***
+ _Nombre des rotations : 5052
+ _Nombre des noeuds visites : 27690
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 72   ***
+ _Nombre des rotations : 4901
+ _Nombre des noeuds visites : 27485
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 73   ***
+ _Nombre des rotations : 4985
+ _Nombre des noeuds visites : 27561
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 74   ***
+ _Nombre des rotations : 4866
+ _Nombre des noeuds visites : 27389
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 75   ***
+ _Nombre des rotations : 4837
+ _Nombre des noeuds visites : 27239
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 76   ***
+ _Nombre des rotations : 4926
+ _Nombre des noeuds visites : 27468
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 77   ***
+ _Nombre des rotations : 4865
+ _Nombre des noeuds visites : 27304
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 78   ***
+ _Nombre des rotations : 5041
+ _Nombre des noeuds visites : 27790
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 79   ***
+ _Nombre des rotations : 4839
+ _Nombre des noeuds visites : 27265
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 80   ***
+ _Nombre des rotations : 4855
+ _Nombre des noeuds visites : 27163
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 81   ***
+ _Nombre des rotations : 4853
+ _Nombre des noeuds visites : 27267
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 82   ***
+ _Nombre des rotations : 4886
+ _Nombre des noeuds visites : 27252
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 83   ***
+ _Nombre des rotations : 4829
+ _Nombre des noeuds visites : 27235
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 84   ***
+ _Nombre des rotations : 4839
+ _Nombre des noeuds visites : 27264
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 85   ***
+ _Nombre des rotations : 5034
+ _Nombre des noeuds visites : 27766
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 86   ***
+ _Nombre des rotations : 5108
+ _Nombre des noeuds visites : 27809
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 87   ***
+ _Nombre des rotations : 5048
+ _Nombre des noeuds visites : 27617
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 88   ***
+ _Nombre des rotations : 4712
+ _Nombre des noeuds visites : 27067
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 89   ***
+ _Nombre des rotations : 4849
+ _Nombre des noeuds visites : 27219
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 90   ***
+ _Nombre des rotations : 5057
+ _Nombre des noeuds visites : 27749
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 91   ***
+ _Nombre des rotations : 4921
+ _Nombre des noeuds visites : 27451
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 92   ***
+ _Nombre des rotations : 4726
+ _Nombre des noeuds visites : 26911
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 93   ***
+ _Nombre des rotations : 4950
+ _Nombre des noeuds visites : 27592
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 94   ***
+ _Nombre des rotations : 4889
+ _Nombre des noeuds visites : 27542
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 95   ***
+ _Nombre des rotations : 4853
+ _Nombre des noeuds visites : 27445
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 96   ***
+ _Nombre des rotations : 4911
+ _Nombre des noeuds visites : 27542
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 97   ***
+ _Nombre des rotations : 5157
+ _Nombre des noeuds visites : 27872
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 98   ***
+ _Nombre des rotations : 4843
+ _Nombre des noeuds visites : 27192
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 99   ***
+ _Nombre des rotations : 4795
+ _Nombre des noeuds visites : 27140
+-----------------------------------------------------------
+ ***  les resultats pour l'iteration: 100   ***
+ _Nombre des rotations : 4885
+ _Nombre des noeuds visites : 27386
+-----------------------------------------------------------
